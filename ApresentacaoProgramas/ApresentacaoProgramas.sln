@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32505.173
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PesquisaBinaria", "PesquisaBinaria\PesquisaBinaria.csproj", "{029056F7-F7DE-4C4E-A2FA-173483742A3C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayComListaNomes", "ArrayComLista\ArrayComListaNomes.csproj", "{2AF3EA30-2C2F-45C9-858C-D8A20C329DE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hash", "ArrayComLista\Hash.csproj", "{2AF3EA30-2C2F-45C9-858C-D8A20C329DE7}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Array", "Array\Array.vcxproj", "{D1E26712-75C8-4626-A50C-B2F7F429B00D}"
 EndProject
